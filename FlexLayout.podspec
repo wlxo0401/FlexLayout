@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.name         = "FlexLayout"
   spec.version      = "2.0.06"
   spec.summary      = "FlexLayout"
-  spec.homepage     = "https://github.com/lucdion/FlexLayout.git"
+  spec.homepage     = "https://github.com/wlxo0401/FlexLayout.git"
   spec.license      = "MIT license"
   spec.author       = { "Luc Dion" => "luc_dion@yahoo.com" }
 
